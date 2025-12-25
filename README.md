@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saravanan_Sarav
 - 👀 I’m interested in python
-- 🌱 I’m currently learning data science and machine learning 
+- 🌱 I’m currently learning AI and machine learning 
 - 💞️ I’m looking to collaborate on dev
 - 📫 How to reach me @saravanang188@gmail.com
 - 😄 Pronouns: His
